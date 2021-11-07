@@ -15,3 +15,5 @@ As usual, when even browsing anything even a 'bit' related to malware, or anythi
 
 references:
 https://us-cert.cisa.gov/ics/jsar/JSAR-12-222-01
+go.microsoft.com/fwlink/?linkid=197393
+www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2568
