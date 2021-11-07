@@ -13,3 +13,5 @@ As usual, when even browsing anything even a 'bit' related to malware, or anythi
 
 
 
+references:
+https://us-cert.cisa.gov/ics/jsar/JSAR-12-222-01
