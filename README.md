@@ -1,6 +1,8 @@
 # Gauss-Src
 GAUSS MALWARE Source  [Striking similarities with Duqu, FlameR!, Fanny, Stuxnet and more.]  
 
+related: related: https://github.com/loneicewolf/ReverseEngineering
+
 These coming soon:
 
  - Source code
