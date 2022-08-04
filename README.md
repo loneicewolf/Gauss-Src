@@ -1,7 +1,12 @@
 # Gauss-Src
 GAUSS MALWARE Source  [Striking similarities with Duqu, FlameR!, Fanny, Stuxnet and more.]  
 
-related: related: https://github.com/loneicewolf/ReverseEngineering
+
+### related:
+- [Fanny.bmp - the Precursor to STUXNET](https://github.com/loneicewolf/fanny.bmp)
+- [Stars](https://github.com/loneicewolf/Stars-virus)
+- [Duqu](https://github.com/loneicewolf/DUQU)
+- [FlamER](https://github.com/loneicewolf/flame-sourcecode)
 
 These coming soon:
 
